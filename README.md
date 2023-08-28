@@ -2,7 +2,7 @@
 ## How to install
 ### Chrome:
 
-<iframe width="560" height="315" src="https://youtube.com/embed/vGxpOBnLzp8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://github.com/Hecker5556/discord-token-login/assets/96238375/d91a21aa-1cbe-4f34-9b1c-583e8606f523
 
 ### Firefox:
 
