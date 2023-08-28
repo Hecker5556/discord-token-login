@@ -2,7 +2,7 @@
 ## How to install
 ### Chrome:
 
-https://youtube.com/embed/vGxpOBnLzp8
+<iframe width="560" height="315" src="https://youtube.com/embed/vGxpOBnLzp8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Firefox:
 
