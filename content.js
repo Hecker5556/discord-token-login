@@ -6,11 +6,10 @@ chrome.storage.local.get(['token'], function(result) {
 });
 
 function login(token) {
-    localStorage.setItem('tokenSet', true);
     setInterval(() => {
-      document.body.appendChild(document.createElement `iframe`).contentWindow.localStorage.token = `"${token}"`
+        document.body.appendChild(document.createElement `iframe`).contentWindow.localStorage.token = `"${token}"`
     }, 50);
     setTimeout(() => {
-      location.reload();
+        location.reload();
     }, 2500);
 }
