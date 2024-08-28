@@ -1,5 +1,6 @@
 chrome.storage.local.get(['token'], function(result) {
     var token = result.token;
+    localStorage.setItem("tokenSet", true);
     if (token && !localStorage.getItem('tokenSet')) {
         login(token);
     }
